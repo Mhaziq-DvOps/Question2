@@ -31,6 +31,7 @@ class Program
         //if not sattified with choice 3, it will check in condition 4
         // Use switch case to output the corresponding category
         switch (category)
+            //this category will be automatically choosen once BMI has calculated
         {
             case 1:
                 Console.WriteLine("You are underweight.");
